@@ -1,4 +1,4 @@
----
+adb shell /data/app/~~PAKAs98xALccCOELgvFXVw==/moe.shizuku.privileged.api-7UueqnMzWvcwLpm1Pe1ZQg==/lib/arm/libshizuku.so---
 manufacturer:
     - general
 ---
